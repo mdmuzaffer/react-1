@@ -5,5 +5,7 @@ NodeJS and NPM
 
 And then Install or create react project 
 
-1. create-react-app jtp-reactapp
-2. npx create-react-app jtp-reactapp
+1 a. npm install -g create-react-app
+1 b. create-react-app reactproject 
+
+2. npx create-react-app reactproject
