@@ -1,1 +1,9 @@
 
+FOR THE REACT FIRST INSTALL 
+===================================
+NodeJS and NPM
+
+And then Install or create react project 
+
+1. create-react-app jtp-reactapp
+2. npx create-react-app jtp-reactapp
