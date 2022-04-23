@@ -9,3 +9,10 @@ And then Install or create react project
 1 b. create-react-app reactproject 
 
 2. npx create-react-app reactproject
+
+
+==========================================
+
+npm uninstall -g create-react-app
+npm i create-react-app
+npx create-react-app my-app
